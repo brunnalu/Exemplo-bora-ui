@@ -9,6 +9,9 @@ public class ElelentosWeb {
 	By password =By.xpath("//input[@name='password']");
 	By btnContinuar =By.xpath("//button[@class='form-button'];");
 	By btnCancelar = By.xpath("//button[@class='form-button secondary-button']");
-	//ao
+	
+	//elementos abrir cpnta
+	By btnAbrirConta=By.xpath("//button[@class='openaccount-button']");
+	By digitarCPF =By.xpath("//input[@)
 	
 }
